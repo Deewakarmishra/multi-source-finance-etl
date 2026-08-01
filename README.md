@@ -103,6 +103,6 @@ structlog, great-expectations, prometheus-client, Airflow 2.x.
 ## About this code
 
 Open-source companion to the data infrastructure work done by
-[acilox](https://github.com/Deewakarmishra). For paid implementation,
+[deewakar](https://github.com/Deewakarmishra). For paid implementation,
 hardening, or extension of these patterns into a production environment,
 open an issue.
